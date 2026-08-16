@@ -1,0 +1,6 @@
+{
+  "name": "Bruster - Car Accessories",
+  "description": "E-commerce store for premium car accessories",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
